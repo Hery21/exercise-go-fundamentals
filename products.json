@@ -1,0 +1,27 @@
+[
+  {
+    "barcode": "00001",
+    "name": "Coca-cola",
+    "price": 3000
+  },
+  {
+    "barcode": "00002",
+    "name": "Sprite",
+    "price": 2500
+  },
+  {
+    "barcode": "00003",
+    "name": "Fanta",
+    "price": 2500
+  },
+  {
+    "barcode": "00004",
+    "name": "Instant Noodles",
+    "price": 3500
+  },
+  {
+    "barcode": "00005",
+    "name": "Coffee",
+    "price": 5000
+  }
+]
